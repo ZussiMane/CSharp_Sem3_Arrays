@@ -5,7 +5,3 @@
 // Пример
 // [1 -5 6]
 // => [-1 5 -6]
-
-// int[] array = new int[10] { -10, -7 - 5, -4, -1, 0, 1, 4, 5, 7, 10 };
-// int length = array.Length;
-// int index = 0;
